@@ -1,0 +1,15 @@
+C:\Users\amori\Desktop\Repos\C34VariablesExercise\C34VariablesExercise\bin\Debug\net6.0\C34VariablesExercise.exe
+C:\Users\amori\Desktop\Repos\C34VariablesExercise\C34VariablesExercise\bin\Debug\net6.0\C34VariablesExercise.deps.json
+C:\Users\amori\Desktop\Repos\C34VariablesExercise\C34VariablesExercise\bin\Debug\net6.0\C34VariablesExercise.runtimeconfig.json
+C:\Users\amori\Desktop\Repos\C34VariablesExercise\C34VariablesExercise\bin\Debug\net6.0\C34VariablesExercise.dll
+C:\Users\amori\Desktop\Repos\C34VariablesExercise\C34VariablesExercise\bin\Debug\net6.0\C34VariablesExercise.pdb
+C:\Users\amori\Desktop\Repos\C34VariablesExercise\C34VariablesExercise\obj\Debug\net6.0\C34VariablesExercise.csproj.AssemblyReference.cache
+C:\Users\amori\Desktop\Repos\C34VariablesExercise\C34VariablesExercise\obj\Debug\net6.0\C34VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\Desktop\Repos\C34VariablesExercise\C34VariablesExercise\obj\Debug\net6.0\C34VariablesExercise.AssemblyInfoInputs.cache
+C:\Users\amori\Desktop\Repos\C34VariablesExercise\C34VariablesExercise\obj\Debug\net6.0\C34VariablesExercise.AssemblyInfo.cs
+C:\Users\amori\Desktop\Repos\C34VariablesExercise\C34VariablesExercise\obj\Debug\net6.0\C34VariablesExercise.csproj.CoreCompileInputs.cache
+C:\Users\amori\Desktop\Repos\C34VariablesExercise\C34VariablesExercise\obj\Debug\net6.0\C34VariablesExercise.dll
+C:\Users\amori\Desktop\Repos\C34VariablesExercise\C34VariablesExercise\obj\Debug\net6.0\refint\C34VariablesExercise.dll
+C:\Users\amori\Desktop\Repos\C34VariablesExercise\C34VariablesExercise\obj\Debug\net6.0\C34VariablesExercise.pdb
+C:\Users\amori\Desktop\Repos\C34VariablesExercise\C34VariablesExercise\obj\Debug\net6.0\C34VariablesExercise.genruntimeconfig.cache
+C:\Users\amori\Desktop\Repos\C34VariablesExercise\C34VariablesExercise\obj\Debug\net6.0\ref\C34VariablesExercise.dll
